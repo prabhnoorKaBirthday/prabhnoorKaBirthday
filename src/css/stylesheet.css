@@ -277,13 +277,13 @@ body {
 
 .center1 {
 	display: block;
-	height: 300px;
-	left: 50%;
+	height: 50%;
+	left: 25%;
 	margin-top: -150px;
-	margin-left: -150px;
+	/* margin-left: -150px; */
 	position: absolute;
 	top: 50%;
-	width: 300px;
+	width: 50%;
 }
 
 .bulb-glow-yellow {
