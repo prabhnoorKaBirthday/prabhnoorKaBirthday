@@ -1,0 +1,25 @@
+{
+    "name": "birthday",
+    "version": "1.0.0",
+    "description": "Birthday greetings..",
+    "main": " ",
+    "scripts": {
+        "server-node": "http-server -p 8081"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ayusharma/birthday.git"
+    },
+    "keywords": [
+        "Birthday"
+    ],
+    "author": "Abby",
+    "license": "WTFPL",
+    "bugs": {
+        "url": "https://github.com/bla-bla"
+    },
+    "homepage": "https://github.com/bla-bla",
+    "dependencies": {
+        "http-server": "^14.1.1"
+    }
+}
